@@ -1,0 +1,15 @@
+C:\Users\as\Desktop\.net\TicTacTocProblem\TicTacTocProblem\obj\Debug\net6.0\TicTacTocProblem.csproj.AssemblyReference.cache
+C:\Users\as\Desktop\.net\TicTacTocProblem\TicTacTocProblem\obj\Debug\net6.0\TicTacTocProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\as\Desktop\.net\TicTacTocProblem\TicTacTocProblem\obj\Debug\net6.0\TicTacTocProblem.AssemblyInfoInputs.cache
+C:\Users\as\Desktop\.net\TicTacTocProblem\TicTacTocProblem\obj\Debug\net6.0\TicTacTocProblem.AssemblyInfo.cs
+C:\Users\as\Desktop\.net\TicTacTocProblem\TicTacTocProblem\obj\Debug\net6.0\TicTacTocProblem.csproj.CoreCompileInputs.cache
+C:\Users\as\Desktop\.net\TicTacTocProblem\TicTacTocProblem\bin\Debug\net6.0\TicTacTocProblem.exe
+C:\Users\as\Desktop\.net\TicTacTocProblem\TicTacTocProblem\bin\Debug\net6.0\TicTacTocProblem.deps.json
+C:\Users\as\Desktop\.net\TicTacTocProblem\TicTacTocProblem\bin\Debug\net6.0\TicTacTocProblem.runtimeconfig.json
+C:\Users\as\Desktop\.net\TicTacTocProblem\TicTacTocProblem\bin\Debug\net6.0\TicTacTocProblem.dll
+C:\Users\as\Desktop\.net\TicTacTocProblem\TicTacTocProblem\bin\Debug\net6.0\ref\TicTacTocProblem.dll
+C:\Users\as\Desktop\.net\TicTacTocProblem\TicTacTocProblem\bin\Debug\net6.0\TicTacTocProblem.pdb
+C:\Users\as\Desktop\.net\TicTacTocProblem\TicTacTocProblem\obj\Debug\net6.0\TicTacTocProblem.dll
+C:\Users\as\Desktop\.net\TicTacTocProblem\TicTacTocProblem\obj\Debug\net6.0\ref\TicTacTocProblem.dll
+C:\Users\as\Desktop\.net\TicTacTocProblem\TicTacTocProblem\obj\Debug\net6.0\TicTacTocProblem.pdb
+C:\Users\as\Desktop\.net\TicTacTocProblem\TicTacTocProblem\obj\Debug\net6.0\TicTacTocProblem.genruntimeconfig.cache

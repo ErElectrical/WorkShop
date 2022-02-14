@@ -8,7 +8,7 @@ namespace TicTacTocProblem
         {
             Console.WriteLine("Welcome To TicTacToc game ");
             TicTacToc.Position();
-  
+            TicTacToc.AskPlayer();
             
             
         }
